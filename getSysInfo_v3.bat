@@ -96,12 +96,11 @@ for %%A in (%disk_info%) do (
 set "disk_info=!filtered_disk_info:~1!"
 
 :: Write final results to the output file
-echo Disk Info: %disk_info% >> %output_file%
+echo HardDisk: %disk_info% >> %output_file%
 
-echo . >> %output_file%
-echo . >> %output_file%
-echo . >> %output_file%
-echo © Developed by huynm3@msb.com.vn © >> %output_file%
+echo ----------------------------------
+echo ^| Developed by huynm3@msb.com.vn ^|
+echo ----------------------------------
 
 :: Notify completion
 echo System information has been saved to %output_file%.
