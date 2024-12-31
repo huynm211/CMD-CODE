@@ -1,0 +1,5 @@
+disk01	SSD
+disk02	HDD
+disk03	HDD
+disk04	SSD
+Disk05	WWD
