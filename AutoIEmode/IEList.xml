@@ -1,0 +1,23 @@
+<site-list version="8">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>01/14/2025 09:08:27</date-created>
+  </created-by>
+  <site url="10.129.25.30">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwhs.msb.com.vn/cgi-bin/cognosisapi.dll">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.130.1.30">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="intranet.msb.com.vn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+ </site-list>
